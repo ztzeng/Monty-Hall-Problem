@@ -15,4 +15,5 @@ You pick a door, say No. 1, and the host, who knows what's behind the doors, ope
 He then says to you, "Do you want to pick door No. 2?" Is it to your advantage to switch your choice?
 
 
-Proof.md will show the multiple solution and MontyHall.py will show the simulation process.
+Proof.md will show the multiple solution and MontyHall.py will show the simulation process
+and visualization.
