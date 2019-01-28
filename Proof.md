@@ -1,4 +1,4 @@
-## Probability of wining:
+## Probability of wining
 
 *N = number of doors = 3*
 
